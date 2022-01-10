@@ -4,5 +4,8 @@ public class Main {
     
     System.out.println("Code");
     System.out.println("More code scanned by sonar");
+    
+    if(1==1) {
+      System.out.println("1=1?");
   }
 }
